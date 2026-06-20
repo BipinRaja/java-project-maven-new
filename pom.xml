@@ -45,7 +45,7 @@
 	
 	<pluginRepositories>
 	    <pluginRepository>    
-		<id>maven1</id>
+		<id>hotstar</id>
 		<name>Maven.org</name>
 		<url>https://repo1.maven.org/maven2</url>
 	    </pluginRepository>
