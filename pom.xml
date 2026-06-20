@@ -47,7 +47,7 @@
 	    <pluginRepository>    
 		<id>hotstar</id>
 		<name>Maven.org</name>
-		<url>https://repo1.maven.org/maven2</url>
+		<url>http://13.234.114.178:8081/#admin/repository/repositories:hotstar</url>
 	    </pluginRepository>
 	</pluginRepositories>
 
